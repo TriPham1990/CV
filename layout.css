@@ -1,0 +1,43 @@
+
+.left{
+    width: 20%;
+    margin-left: 200px;
+    float: left;
+}
+
+.right{
+    width: 50%;
+    background-color: burlywood;
+    float: left;
+    padding-left: 30px;
+}
+
+#avatar {
+    background-color: red;
+    padding: 5px;
+    text-align: center;
+}
+
+#avatar img{
+    margin-top: 15px;
+    border-radius: 50%;
+    width: 70%;
+    height: 70%;
+}
+
+#info {
+    background-color: coral;
+}
+
+.progressbar {
+    background-color: black;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.progressbar div {
+    background-color: orange;
+    width: 70%;
+    height: 10px;
+    border-radius: 10px;
+}
